@@ -1,0 +1,7 @@
+C:\Users\Thiago\source\repos\Secao13\Secao13\bin\Debug\Secao13.exe.config
+C:\Users\Thiago\source\repos\Secao13\Secao13\bin\Debug\Secao13.exe
+C:\Users\Thiago\source\repos\Secao13\Secao13\bin\Debug\Secao13.pdb
+C:\Users\Thiago\source\repos\Secao13\Secao13\obj\Debug\Secao13.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\Secao13\Secao13\obj\Debug\Secao13.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Secao13\Secao13\obj\Debug\Secao13.exe
+C:\Users\Thiago\source\repos\Secao13\Secao13\obj\Debug\Secao13.pdb

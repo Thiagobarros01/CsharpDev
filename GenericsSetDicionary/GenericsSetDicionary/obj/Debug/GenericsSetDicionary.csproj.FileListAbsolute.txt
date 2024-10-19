@@ -1,0 +1,7 @@
+C:\Users\Thiago\source\repos\GenericsSetDicionary\GenericsSetDicionary\obj\Debug\GenericsSetDicionary.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\GenericsSetDicionary\GenericsSetDicionary\obj\Debug\GenericsSetDicionary.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\GenericsSetDicionary\GenericsSetDicionary\bin\Debug\GenericsSetDicionary.exe.config
+C:\Users\Thiago\source\repos\GenericsSetDicionary\GenericsSetDicionary\bin\Debug\GenericsSetDicionary.exe
+C:\Users\Thiago\source\repos\GenericsSetDicionary\GenericsSetDicionary\bin\Debug\GenericsSetDicionary.pdb
+C:\Users\Thiago\source\repos\GenericsSetDicionary\GenericsSetDicionary\obj\Debug\GenericsSetDicionary.exe
+C:\Users\Thiago\source\repos\GenericsSetDicionary\GenericsSetDicionary\obj\Debug\GenericsSetDicionary.pdb

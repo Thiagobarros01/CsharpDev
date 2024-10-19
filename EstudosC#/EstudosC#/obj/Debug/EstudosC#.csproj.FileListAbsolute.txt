@@ -1,0 +1,7 @@
+C:\Users\Thiago\source\repos\EstudosC#\EstudosC#\bin\Debug\EstudosC#.exe.config
+C:\Users\Thiago\source\repos\EstudosC#\EstudosC#\bin\Debug\EstudosC#.exe
+C:\Users\Thiago\source\repos\EstudosC#\EstudosC#\bin\Debug\EstudosC#.pdb
+C:\Users\Thiago\source\repos\EstudosC#\EstudosC#\obj\Debug\EstudosC#.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\EstudosC#\EstudosC#\obj\Debug\EstudosC#.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\EstudosC#\EstudosC#\obj\Debug\EstudosC#.exe
+C:\Users\Thiago\source\repos\EstudosC#\EstudosC#\obj\Debug\EstudosC#.pdb

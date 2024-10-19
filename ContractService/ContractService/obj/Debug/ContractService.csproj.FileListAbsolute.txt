@@ -1,0 +1,7 @@
+C:\Users\Thiago\source\repos\ContractService\ContractService\obj\Debug\ContractService.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\ContractService\ContractService\obj\Debug\ContractService.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\ContractService\ContractService\bin\Debug\ContractService.exe.config
+C:\Users\Thiago\source\repos\ContractService\ContractService\bin\Debug\ContractService.exe
+C:\Users\Thiago\source\repos\ContractService\ContractService\bin\Debug\ContractService.pdb
+C:\Users\Thiago\source\repos\ContractService\ContractService\obj\Debug\ContractService.exe
+C:\Users\Thiago\source\repos\ContractService\ContractService\obj\Debug\ContractService.pdb

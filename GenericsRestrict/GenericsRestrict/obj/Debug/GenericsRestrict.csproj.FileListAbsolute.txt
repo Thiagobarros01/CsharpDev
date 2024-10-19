@@ -1,0 +1,7 @@
+C:\Users\Thiago\source\repos\GenericsRestrict\GenericsRestrict\obj\Debug\GenericsRestrict.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\GenericsRestrict\GenericsRestrict\obj\Debug\GenericsRestrict.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\GenericsRestrict\GenericsRestrict\bin\Debug\GenericsRestrict.exe.config
+C:\Users\Thiago\source\repos\GenericsRestrict\GenericsRestrict\bin\Debug\GenericsRestrict.exe
+C:\Users\Thiago\source\repos\GenericsRestrict\GenericsRestrict\bin\Debug\GenericsRestrict.pdb
+C:\Users\Thiago\source\repos\GenericsRestrict\GenericsRestrict\obj\Debug\GenericsRestrict.exe
+C:\Users\Thiago\source\repos\GenericsRestrict\GenericsRestrict\obj\Debug\GenericsRestrict.pdb
