@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thiago\\source\\repos\\ContractService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2683FB-894B-4CE2-A089-ACAE38485DBE}|ContractService\\ContractService.csproj|c:\\users\\thiago\\source\\repos\\contractservice\\contractservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2683FB-894B-4CE2-A089-ACAE38485DBE}|ContractService\\ContractService.csproj|solutionrelative:contractservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2683FB-894B-4CE2-A089-ACAE38485DBE}|ContractService\\ContractService.csproj|C:\\Users\\Thiago\\source\\repos\\ContractService\\contractservice\\services\\ipagamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2683FB-894B-4CE2-A089-ACAE38485DBE}|ContractService\\ContractService.csproj|solutionrelative:contractservice\\services\\ipagamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2683FB-894B-4CE2-A089-ACAE38485DBE}|ContractService\\ContractService.csproj|C:\\Users\\Thiago\\source\\repos\\ContractService\\contractservice\\entities\\contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2683FB-894B-4CE2-A089-ACAE38485DBE}|ContractService\\ContractService.csproj|solutionrelative:contractservice\\entities\\contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2683FB-894B-4CE2-A089-ACAE38485DBE}|ContractService\\ContractService.csproj|C:\\Users\\Thiago\\source\\repos\\ContractService\\contractservice\\services\\processpagaments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2683FB-894B-4CE2-A089-ACAE38485DBE}|ContractService\\ContractService.csproj|solutionrelative:contractservice\\services\\processpagaments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2683FB-894B-4CE2-A089-ACAE38485DBE}|ContractService\\ContractService.csproj|C:\\Users\\Thiago\\source\\repos\\ContractService\\contractservice\\services\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2683FB-894B-4CE2-A089-ACAE38485DBE}|ContractService\\ContractService.csproj|solutionrelative:contractservice\\services\\paypal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2683FB-894B-4CE2-A089-ACAE38485DBE}|ContractService\\ContractService.csproj|C:\\Users\\Thiago\\source\\repos\\ContractService\\contractservice\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2683FB-894B-4CE2-A089-ACAE38485DBE}|ContractService\\ContractService.csproj|solutionrelative:contractservice\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Installment.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\ContractService\\ContractService\\entities\\Installment.cs",
+              "RelativeDocumentMoniker": "ContractService\\entities\\Installment.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\ContractService\\ContractService\\entities\\Installment.cs",
+              "RelativeToolTip": "ContractService\\entities\\Installment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:18:53.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contracts.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\ContractService\\ContractService\\entities\\Contracts.cs",
+              "RelativeDocumentMoniker": "ContractService\\entities\\Contracts.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\ContractService\\ContractService\\entities\\Contracts.cs",
+              "RelativeToolTip": "ContractService\\entities\\Contracts.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:11:20.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProcessPagaments.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\ContractService\\ContractService\\services\\ProcessPagaments.cs",
+              "RelativeDocumentMoniker": "ContractService\\services\\ProcessPagaments.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\ContractService\\ContractService\\services\\ProcessPagaments.cs",
+              "RelativeToolTip": "ContractService\\services\\ProcessPagaments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:50:52.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Paypal.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\ContractService\\ContractService\\services\\Paypal.cs",
+              "RelativeDocumentMoniker": "ContractService\\services\\Paypal.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\ContractService\\ContractService\\services\\Paypal.cs",
+              "RelativeToolTip": "ContractService\\services\\Paypal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:50:22.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPagamentService.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\ContractService\\ContractService\\services\\IPagamentService.cs",
+              "RelativeDocumentMoniker": "ContractService\\services\\IPagamentService.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\ContractService\\ContractService\\services\\IPagamentService.cs",
+              "RelativeToolTip": "ContractService\\services\\IPagamentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:50:13.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\ContractService\\ContractService\\Program.cs",
+              "RelativeDocumentMoniker": "ContractService\\Program.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\ContractService\\ContractService\\Program.cs",
+              "RelativeToolTip": "ContractService\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAWwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:09:07.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
