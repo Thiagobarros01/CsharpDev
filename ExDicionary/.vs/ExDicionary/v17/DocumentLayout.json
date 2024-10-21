@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CsharpDev\\ExDicionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F63AA47E-2EC6-4633-9EE5-88950BD9FEA7}|ExDicionary\\ExDicionary.csproj|e:\\csharpdev\\exdicionary\\exdicionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63AA47E-2EC6-4633-9EE5-88950BD9FEA7}|ExDicionary\\ExDicionary.csproj|solutionrelative:exdicionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63AA47E-2EC6-4633-9EE5-88950BD9FEA7}|ExDicionary\\ExDicionary.csproj|e:\\csharpdev\\exdicionary\\exdicionary\\entities\\votos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63AA47E-2EC6-4633-9EE5-88950BD9FEA7}|ExDicionary\\ExDicionary.csproj|solutionrelative:exdicionary\\entities\\votos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Votos.cs",
+              "DocumentMoniker": "E:\\CsharpDev\\ExDicionary\\ExDicionary\\entities\\Votos.cs",
+              "RelativeDocumentMoniker": "ExDicionary\\entities\\Votos.cs",
+              "ToolTip": "E:\\CsharpDev\\ExDicionary\\ExDicionary\\entities\\Votos.cs",
+              "RelativeToolTip": "ExDicionary\\entities\\Votos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:18:03.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CsharpDev\\ExDicionary\\ExDicionary\\Program.cs",
+              "RelativeDocumentMoniker": "ExDicionary\\Program.cs",
+              "ToolTip": "E:\\CsharpDev\\ExDicionary\\ExDicionary\\Program.cs",
+              "RelativeToolTip": "ExDicionary\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:17:25.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
